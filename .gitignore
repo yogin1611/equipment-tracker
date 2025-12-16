@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# SQLite DB (optional – remove if you WANT DB committed)
+*.sqlite
+*.sqlite3
+
+# Build
+build/
+dist/
